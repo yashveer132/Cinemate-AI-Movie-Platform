@@ -2,13 +2,16 @@
 
 ## Overview
 
-Cinemate AI movie platform revolutionizes movie discovery by combining artificial intelligence with an intuitive user interface. Powered by AI and TMDB's extensive database, it offers a next-generation platform for finding, exploring, and enjoying movies through natural conversation and smart recommendations. The platform features Natural Language Search, Smart Playlist Generation, AI Trailer Recommendations, AI Movie Recommendations, and intelligent AI Search Modes, creating a comprehensive and personalized movie discovery experience.
+Cinemate AI movie platform revolutionizes movie discovery by combining artificial intelligence with an intuitive user interface. Powered by AI and TMDB's extensive database, it offers a next-generation platform for finding, exploring, and enjoying movies through natural conversation and smart recommendations. The platform features Natural Language Search, Smart AI Playlist Generation, AI Trailer Recommendations, AI Movie Recommendations, and intelligent AI Search Modes, creating a comprehensive and personalized movie discovery experience.
 
 ## Live Demo
 
 ### 🌐 [https://cinemate-ai-movie-platform.netlify.app](https://cinemate-ai-movie-platform.netlify.app)
 
 > Deployed on Netlify for reliable, continuous deployment and optimal performance.
+
+![_- visual selection (1)](https://github.com/user-attachments/assets/1d5964c6-f09b-41d5-a96b-ce9b67956cd9)
+
 
 ## AI-Powered Features
 
@@ -134,6 +137,7 @@ Cinemate AI movie platform revolutionizes movie discovery by combining artificia
   - Purchase platforms
   - Regional availability
 
+
 ## Tech Stack
 
 - **Frontend**: React, Redux Toolkit, SCSS
@@ -207,6 +211,8 @@ npm run dev
 - Debounced search inputs
 - Infinite scrolling implementation
 - Skeleton loaders for better UX
+
+![_- visual selection (2)](https://github.com/user-attachments/assets/99ae4a48-ad52-426a-97a6-6a0443d9a0aa)
 
 ## Project Structure
 
