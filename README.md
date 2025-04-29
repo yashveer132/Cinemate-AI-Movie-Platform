@@ -88,8 +88,7 @@ Cinemate AI movie platform revolutionizes movie discovery by combining artificia
 ### Social Features
 - 🎥 **Watch Party**
   - Real-time synchronized watching
-  - Peer-to-peer video synchronization
-  - Chat functionality
+  - AI Trailers Recommendations
 
 ### Additional Features
 - 🌟 **Trending & Popular**
@@ -109,7 +108,6 @@ Cinemate AI movie platform revolutionizes movie discovery by combining artificia
 - **AI Search Modes**
   - Natural language processing for complex queries
   - Traditional keyword search with filters
-  - Voice input support (coming soon)
 
 ### Movie Information
 - **Rich Media Content**
